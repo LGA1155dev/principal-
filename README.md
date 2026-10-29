@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:ED8B00,50:557C94,100:22B8CF&section=header" alt="" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:ED8B00,50:557C94,100:22B8CF&section=header" alt="" width="70%">
 
 <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="140" height="140" alt="Foto de perfil: logo do Kali Linux">
 
@@ -10,7 +10,7 @@
 
 `@LGA1155dev`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8CF&center=true&vCenter=true&width=620&height=40&lines=Estudante+de+programa%C3%A7%C3%A3o;Java+%26+Spring+Boot;Aprendendo+Angular;Linux+%26+Kali+Linux;Curioso+por+ciberseguran%C3%A7a" alt="Estudante de programação · Java & Spring Boot · Aprendendo Angular · Linux & Kali Linux · Curioso por cibersegurança">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8CF&center=true&vCenter=true&width=620&height=40&lines=Estudante+de+programa%C3%A7%C3%A3o;Java+%26+Spring+Boot;Aprendendo+Angular;Linux+%26+Kali+Linux;Curioso+por+ciberseguran%C3%A7a" alt="Learning programming · Java & Spring Boot · Studying Angular.js · Linux & Kali Linux · I'm appreciate cyber security">
 
 <br>
 
@@ -26,17 +26,17 @@
 
 <a id="sobre"></a>
 
-## 👋 Sobre mim
+## 👋 About myself
 
 ```bash
 gabriel@kali:~$ cat sobre.txt
-Estudante de programação focado em Java e Spring Boot.
-Aprendendo Angular para o front-end.
-Interesse em desenvolvimento de software e cibersegurança (pentest web).
-Cada projeto é uma forma de aprender, errar, corrigir e evoluir.
+Student of programming focus in Java and Spring Boot.
+Studying Angular for front-end.
+Interesting in Software development and cyber security (Penetration Testing Web).
+All projets is the form to studying, wrong and understand.
 ```
-
-Gosto de projetos que resolvem um problema concreto, como um cardápio escolar ou um scanner de portas que me ajudou a entender redes na prática. Uso **Linux** e **Kali Linux** para estudar segurança e transformo o que aprendo em projetos publicados aqui no GitHub.
+I like of projects what solved hard problems.
+Like a School Menu or a Port Scanner what help me to understand network in the practice. Linux use and Kali Linux to studying security and I transforming what I learning in GitHub projects to improve my skills.
 
 <div align="center">
 <table><tr>
@@ -48,13 +48,13 @@ Gosto de projetos que resolvem um problema concreto, como um cardápio escolar o
 
 <a id="tecnologias"></a>
 
-## 🧰 Tecnologias
+## 🧰 Technologys 
 
 > 👆 **Clique em qualquer ícone** para ver o que já fiz com a tecnologia e em quais projetos ela aparece.
 
 <div align="center">
 
-**Estudando agora**
+**Studying now**
 
 <table><tr>
 <td align="center" width="110"><a href="#t-java" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="56" height="56" alt="Java"></a><br><sub><b>Java</b></sub></td>
@@ -66,7 +66,7 @@ Gosto de projetos que resolvem um problema concreto, como um cardápio escolar o
 
 <div align="center">
 
-**Sistemas e segurança**
+**System and Security**
 
 <table><tr>
 <td align="center" width="110"><a href="#t-kali" title="Kali Linux"><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="56" height="56" alt="Kali Linux"></a><br><sub><b>Kali Linux</b></sub></td>
@@ -77,7 +77,7 @@ Gosto de projetos que resolvem um problema concreto, como um cardápio escolar o
 
 <div align="center">
 
-**Web e dados**
+**Web and data**
 
 <table><tr>
 <td align="center" width="110"><a href="#t-html" title="HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="56" height="56" alt="HTML"></a><br><sub><b>HTML</b></sub></td>
@@ -92,7 +92,7 @@ Gosto de projetos que resolvem um problema concreto, como um cardápio escolar o
 
 <div align="center">
 
-**Usadas nos projetos**
+**Used in projects**
 
 <table><tr>
 <td align="center" width="110"><a href="#t-react" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="56" height="56" alt="React"></a><br><sub><b>React</b></sub></td>
@@ -108,14 +108,14 @@ Gosto de projetos que resolvem um problema concreto, como um cardápio escolar o
 
 <a id="projetos"></a>
 
-## 🚀 Projetos
+## 🚀 Projects
 
 São **7 projetos** publicados. Clique nos ícones de cada projeto para ver a tecnologia por trás dele.
 
 <table>
 <tr><td>
 
-<h3>⭐ Cardápio Escolar</h3>
+<h3>⭐ School Menu</h3>
 
 Aplicação web para consultar o cardápio do dia na escola, com avaliações por estrelas e comentários dos alunos.<br><br>
 
@@ -254,7 +254,7 @@ Registro dos meus estudos de POO, Service e Repository.
 
 <a id="explorar"></a>
 
-## 🔎 Explorar por tecnologia
+## 🔎 Explore for Technologys 
 
 Cada tecnologia tem um cartão com o que eu fiz e os projetos relacionados. Os ícones lá em cima levam direto até aqui.
 
