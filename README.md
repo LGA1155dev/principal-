@@ -1,188 +1,489 @@
+<a id="top"></a>
+
 <div align="center">
 
-<img src="./assets/kali-avatar.svg" alt="Foto de perfil: logo do Kali Linux" width="140">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:ED8B00,50:557C94,100:22B8CF&section=header" alt="" width="100%">
+
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="140" height="140" alt="Foto de perfil: logo do Kali Linux">
 
 # Gabriel
 
-**@LGA1155dev**
+`@LGA1155dev`
 
-Estudante de programação · Java & Spring Boot · Curioso por cibersegurança
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8CF&center=true&vCenter=true&width=620&height=40&lines=Estudante+de+programa%C3%A7%C3%A3o;Java+%26+Spring+Boot;Aprendendo+Angular;Linux+%26+Kali+Linux;Curioso+por+ciberseguran%C3%A7a" alt="Estudante de programação · Java & Spring Boot · Aprendendo Angular · Linux & Kali Linux · Curioso por cibersegurança">
 
-[Sobre](#-sobre-mim) •
-[Tecnologias](#-tecnologias) •
-[Projetos](#-projetos) •
-[Objetivos](#-objetivos) •
-[Contato](#-contato)
+<br>
 
-![Projetos](https://img.shields.io/badge/projetos-7-ed8b00?style=for-the-badge)
-![Tecnologias](https://img.shields.io/badge/tecnologias-18-22b8cf?style=for-the-badge)
-![Foco](https://img.shields.io/badge/foco-back--end-6DB33F?style=for-the-badge)
+<a href="#sobre"><b>👋 Sobre</b></a> &nbsp;•&nbsp; <a href="#tecnologias"><b>🧰 Tecnologias</b></a> &nbsp;•&nbsp; <a href="#projetos"><b>🚀 Projetos</b></a> &nbsp;•&nbsp; <a href="#explorar"><b>🔎 Explorar</b></a> &nbsp;•&nbsp; <a href="#objetivos"><b>🎯 Objetivos</b></a> &nbsp;•&nbsp; <a href="#contato"><b>📫 Contato</b></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=LGA1155dev&label=Visitas&color=22b8cf&style=flat" alt="Visitas ao perfil">
 
 </div>
 
----
+<br>
+
+<a id="sobre"></a>
 
 ## 👋 Sobre mim
 
-Sou estudante de programação, focado em **Java e Spring Boot**, e aprendendo **Angular** para o front-end. Gosto de projetos que resolvem um problema concreto, como um cardápio escolar ou um scanner de portas que me ajudou a entender redes na prática.
+```bash
+gabriel@kali:~$ cat sobre.txt
+Estudante de programação focado em Java e Spring Boot.
+Aprendendo Angular para o front-end.
+Interesse em desenvolvimento de software e cibersegurança (pentest web).
+Cada projeto é uma forma de aprender, errar, corrigir e evoluir.
+```
 
-Tenho interesse em **desenvolvimento de software** e em **cibersegurança**, principalmente pentest web. Uso **Linux** e **Kali Linux** para estudar segurança e transformo o que aprendo em projetos publicados aqui no GitHub.
+Gosto de projetos que resolvem um problema concreto, como um cardápio escolar ou um scanner de portas que me ajudou a entender redes na prática. Uso **Linux** e **Kali Linux** para estudar segurança e transformo o que aprendo em projetos publicados aqui no GitHub.
 
-Estou no início da jornada e uso cada projeto para aprender, errar, corrigir e evoluir.
+<div align="center">
+<table><tr>
+<td align="center"><h3>7</h3><sub>projetos</sub></td>
+<td align="center"><h3>18</h3><sub>tecnologias</sub></td>
+<td align="center"><h3>Back-end</h3><sub>foco atual</sub></td>
+</tr></table>
+</div>
 
----
+<a id="tecnologias"></a>
 
 ## 🧰 Tecnologias
 
-### Estudando agora
+> 👆 **Clique em qualquer ícone** para ver o que já fiz com a tecnologia e em quais projetos ela aparece.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<div align="center">
 
-### Sistemas e segurança
+**Estudando agora**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<table><tr>
+<td align="center" width="110"><a href="#t-java" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="56" height="56" alt="Java"></a><br><sub><b>Java</b></sub></td>
+<td align="center" width="110"><a href="#t-spring" title="Spring Boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="56" height="56" alt="Spring Boot"></a><br><sub><b>Spring Boot</b></sub></td>
+<td align="center" width="110"><a href="#t-angular" title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angularjs/angularjs-original.svg" width="56" height="56" alt="Angular"></a><br><sub><b>Angular</b></sub></td>
+</tr></table>
 
-### Web e dados
+</div>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<div align="center">
 
-### Usadas nos projetos
+**Sistemas e segurança**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<table><tr>
+<td align="center" width="110"><a href="#t-kali" title="Kali Linux"><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="56" height="56" alt="Kali Linux"></a><br><sub><b>Kali Linux</b></sub></td>
+<td align="center" width="110"><a href="#t-linux" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="56" height="56" alt="Linux"></a><br><sub><b>Linux</b></sub></td>
+</tr></table>
 
-### Clique para ver o que já fiz com cada uma
+</div>
+
+<div align="center">
+
+**Web e dados**
+
+<table><tr>
+<td align="center" width="110"><a href="#t-html" title="HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="56" height="56" alt="HTML"></a><br><sub><b>HTML</b></sub></td>
+<td align="center" width="110"><a href="#t-css" title="CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="56" height="56" alt="CSS"></a><br><sub><b>CSS</b></sub></td>
+<td align="center" width="110"><a href="#t-js" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="56" height="56" alt="JavaScript"></a><br><sub><b>JavaScript</b></sub></td>
+<td align="center" width="110"><a href="#t-sql" title="SQL"><img src="https://api.iconify.design/mdi/database.svg?color=%234da3ff" width="56" height="56" alt="SQL"></a><br><sub><b>SQL</b></sub></td>
+<td align="center" width="110"><a href="#t-python" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="56" height="56" alt="Python"></a><br><sub><b>Python</b></sub></td>
+<td align="center" width="110"><a href="#t-powerbi" title="Power BI"><img src="https://api.iconify.design/mdi/chart-box.svg?color=%23f2c811" width="56" height="56" alt="Power BI"></a><br><sub><b>Power BI</b></sub></td>
+</tr></table>
+
+</div>
+
+<div align="center">
+
+**Usadas nos projetos**
+
+<table><tr>
+<td align="center" width="110"><a href="#t-react" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="56" height="56" alt="React"></a><br><sub><b>React</b></sub></td>
+<td align="center" width="110"><a href="#t-postgres" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="56" height="56" alt="PostgreSQL"></a><br><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="110"><a href="#t-gradle" title="Gradle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/gradle/gradle-original.svg" width="56" height="56" alt="Gradle"></a><br><sub><b>Gradle</b></sub></td>
+<td align="center" width="110"><a href="#t-vercel" title="Vercel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white"><img src="https://cdn.simpleicons.org/vercel/181717" width="56" height="56" alt="Vercel"></picture></a><br><sub><b>Vercel</b></sub></td>
+<td align="center" width="110"><a href="#t-railway" title="Railway"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/railway/white"><img src="https://cdn.simpleicons.org/railway/181717" width="56" height="56" alt="Railway"></picture></a><br><sub><b>Railway</b></sub></td>
+<td align="center" width="110"><a href="#t-git" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="56" height="56" alt="Git"></a><br><sub><b>Git</b></sub></td>
+<td align="center" width="110"><a href="#t-github" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.simpleicons.org/github/181717" width="56" height="56" alt="GitHub"></picture></a><br><sub><b>GitHub</b></sub></td>
+</tr></table>
+
+</div>
+
+<a id="projetos"></a>
+
+## 🚀 Projetos
+
+São **7 projetos** publicados. Clique nos ícones de cada projeto para ver a tecnologia por trás dele.
+
+<table>
+<tr><td>
+
+<h3>⭐ Cardápio Escolar</h3>
+
+Aplicação web para consultar o cardápio do dia na escola, com avaliações por estrelas e comentários dos alunos.<br><br>
+
+<a href="#t-react" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="34" height="34" alt="React"></a> &nbsp;<a href="#t-java" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="34" height="34" alt="Java"></a> &nbsp;<a href="#t-spring" title="Spring Boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="34" height="34" alt="Spring Boot"></a> &nbsp;<a href="#t-postgres" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="34" height="34" alt="PostgreSQL"></a> &nbsp;<a href="#t-vercel" title="Vercel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white"><img src="https://cdn.simpleicons.org/vercel/181717" width="34" height="34" alt="Vercel"></picture></a> &nbsp;<a href="#t-railway" title="Railway"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/railway/white"><img src="https://cdn.simpleicons.org/railway/181717" width="34" height="34" alt="Railway"></picture></a><br><br>
+
+<a href="https://github.com/LGA1155dev/cardapio"><b>Repositório ↗</b></a> &nbsp;•&nbsp; <a href="https://cardapio-chi-weld.vercel.app"><b>Aplicação online ↗</b></a>
 
 <details>
-<summary><b>☕ Java</b> · estudando agora</summary>
+<summary>O que aprendi neste projeto</summary>
+<br>
+Front-end em React na Vercel; back-end em Java com Spring Boot e banco PostgreSQL na Railway.
+</details>
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+<h3>Jasmine Scan</h3>
+
+Scanner de portas em Java com sockets: identifica portas abertas e sugere os serviços associados.<br><br>
+
+<a href="#t-java" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="34" height="34" alt="Java"></a><br><br>
+
+<a href="https://github.com/LGA1155dev?tab=repositories"><b>Meus repositórios ↗</b></a>
+
+<details>
+<summary>O que aprendi neste projeto</summary>
+<br>
+Criado para estudar redes e TCP na prática. Use apenas em ambientes próprios ou autorizados.
+</details>
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+<h3>Cadastro de Ninjas</h3>
+
+Back-end com Java e Spring Boot.<br><br>
+
+<a href="#t-java" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="34" height="34" alt="Java"></a> &nbsp;<a href="#t-spring" title="Spring Boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="34" height="34" alt="Spring Boot"></a><br><br>
+
+<a href="https://github.com/LGA1155dev?tab=repositories"><b>Meus repositórios ↗</b></a>
+
+<details>
+<summary>O que aprendi neste projeto</summary>
+<br>
+Serviu para praticar a construção de APIs e a organização da aplicação em camadas.
+</details>
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+<h3>Comparativo de IAs</h3>
+
+Projeto escolar com gráficos comparativos.<br><br>
+
+<a href="#t-python" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="34" height="34" alt="Python"></a> &nbsp;<a href="#t-powerbi" title="Power BI"><img src="https://api.iconify.design/mdi/chart-box.svg?color=%23f2c811" width="34" height="34" alt="Power BI"></a><br><br>
+
+<a href="https://github.com/LGA1155dev/Trabalho-AI"><b>Repositório ↗</b></a>
+
+<details>
+<summary>O que aprendi neste projeto</summary>
+<br>
+Feito com Power BI e Python.
+</details>
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+<h3>Mini-Loja</h3>
+
+Loja simples feita com HTML, CSS e JavaScript.<br><br>
+
+<a href="#t-html" title="HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="34" height="34" alt="HTML"></a> &nbsp;<a href="#t-css" title="CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="34" height="34" alt="CSS"></a> &nbsp;<a href="#t-js" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript"></a><br><br>
+
+<a href="https://github.com/LGA1155dev/Mini-Loja"><b>Repositório ↗</b></a>
+
+<details>
+<summary>O que aprendi neste projeto</summary>
+<br>
+Prática de estrutura, estilo e interatividade no front-end.
+</details>
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+<h3>Login-Cx</h3>
+
+Interface de login com HTML, CSS e JavaScript.<br><br>
+
+<a href="#t-html" title="HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="34" height="34" alt="HTML"></a> &nbsp;<a href="#t-css" title="CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="34" height="34" alt="CSS"></a> &nbsp;<a href="#t-js" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript"></a><br><br>
+
+<a href="https://github.com/LGA1155dev/Login-Cx"><b>Repositório ↗</b></a>
+
+<details>
+<summary>O que aprendi neste projeto</summary>
+<br>
+Prática de formulários e organização visual.
+</details>
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+<h3>Diário de estudos em Java</h3>
+
+Anotações e exercícios de Java.<br><br>
+
+<a href="#t-java" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="34" height="34" alt="Java"></a><br><br>
+
+<a href="https://github.com/LGA1155dev/Java"><b>Repositório ↗</b></a>
+
+<details>
+<summary>O que aprendi neste projeto</summary>
+<br>
+Registro dos meus estudos de POO, Service e Repository.
+</details>
+
+</td></tr>
+</table>
+
+<a id="explorar"></a>
+
+## 🔎 Explorar por tecnologia
+
+Cada tecnologia tem um cartão com o que eu fiz e os projetos relacionados. Os ícones lá em cima levam direto até aqui.
+
+<a id="t-java"></a>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="22" height="22" alt="Java"> <b>Java</b> · <sub>estudando agora</sub></summary>
 
 <br>
 
 Minha linguagem principal: POO, camadas Service e Repository, APIs e sockets para estudar redes.
 
-**Projetos:** Cardápio Escolar · Jasmine Scan · Cadastro de Ninjas · Diário de estudos em Java
+**Projetos:** <a href="#projetos">Cardápio Escolar</a> · <a href="#projetos">Jasmine Scan</a> · <a href="#projetos">Cadastro de Ninjas</a> · <a href="#projetos">Diário de estudos em Java</a>
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
 
 </details>
 
+<a id="t-spring"></a>
+
 <details>
-<summary><b>🍃 Spring Boot</b> · estudando agora</summary>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="22" height="22" alt="Spring Boot"> <b>Spring Boot</b> · <sub>estudando agora</sub></summary>
 
 <br>
 
 Uso para construir APIs e organizar a aplicação em camadas.
 
-**Projetos:** Cardápio Escolar · Cadastro de Ninjas
+**Projetos:** <a href="#projetos">Cardápio Escolar</a> · <a href="#projetos">Cadastro de Ninjas</a>
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
 
 </details>
 
+<a id="t-angular"></a>
+
 <details>
-<summary><b>🅰️ Angular</b> · estudando agora</summary>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angularjs/angularjs-original.svg" width="22" height="22" alt="Angular"> <b>Angular</b> · <sub>estudando agora</sub></summary>
 
 <br>
 
 Estou aprendendo para criar o front-end dos próximos projetos. Ainda não tenho projeto publicado com ele.
 
+_Ainda sem projeto publicado com esta tecnologia._
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
+
 </details>
 
+<a id="t-kali"></a>
+
 <details>
-<summary><b>🐉 Kali Linux e Linux</b> · sistemas e segurança</summary>
+<summary><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="22" height="22" alt="Kali Linux"> <b>Kali Linux</b> · <sub>sistemas e segurança</sub></summary>
 
 <br>
 
 Uso para estudar cibersegurança e pentest web, sempre em ambientes próprios ou autorizados.
 
+_Ainda sem projeto publicado com esta tecnologia._
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
+
 </details>
 
+<a id="t-linux"></a>
+
 <details>
-<summary><b>🌐 HTML, CSS e JavaScript</b> · web</summary>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="22" height="22" alt="Linux"> <b>Linux</b> · <sub>sistemas e segurança</sub></summary>
 
 <br>
 
-Estrutura, visual e interatividade das páginas que criei.
+Sistema que uso no dia a dia de estudo e como base para aprender redes e segurança.
 
-**Projetos:** Mini-Loja · Login-Cx
+_Ainda sem projeto publicado com esta tecnologia._
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
 
 </details>
 
+<a id="t-html"></a>
+
 <details>
-<summary><b>📊 Python e Power BI</b> · dados</summary>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="22" height="22" alt="HTML"> <b>HTML</b> · <sub>web e dados</sub></summary>
 
 <br>
 
-Usei para os gráficos e painéis do projeto escolar de comparação de IAs.
+Estrutura das páginas dos meus projetos web.
 
-**Projetos:** Comparativo de IAs
+**Projetos:** <a href="#projetos">Mini-Loja</a> · <a href="#projetos">Login-Cx</a>
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
 
 </details>
 
+<a id="t-css"></a>
+
 <details>
-<summary><b>⚛️ React, PostgreSQL, Vercel e Railway</b> · aplicação completa</summary>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="22" height="22" alt="CSS"> <b>CSS</b> · <sub>web e dados</sub></summary>
 
 <br>
 
-Front-end em React na Vercel; back-end e banco PostgreSQL na Railway.
+Layout e visual das interfaces que criei.
 
-**Projetos:** Cardápio Escolar
+**Projetos:** <a href="#projetos">Mini-Loja</a> · <a href="#projetos">Login-Cx</a>
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
 
 </details>
 
+<a id="t-js"></a>
+
 <details>
-<summary><b>🔧 SQL, Gradle, Git e GitHub</b> · base de tudo</summary>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="22" height="22" alt="JavaScript"> <b>JavaScript</b> · <sub>web e dados</sub></summary>
 
 <br>
 
-SQL para dados, Gradle como ferramenta de build nos projetos Java, Git e GitHub para versionar e publicar todo o meu código.
+Interatividade nas páginas e base para entender o React.
+
+**Projetos:** <a href="#projetos">Mini-Loja</a> · <a href="#projetos">Login-Cx</a>
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
 
 </details>
 
----
+<a id="t-sql"></a>
 
-## 🚀 Projetos
+<details>
+<summary><img src="https://api.iconify.design/mdi/database.svg?color=%234da3ff" width="22" height="22" alt="SQL"> <b>SQL</b> · <sub>web e dados</sub></summary>
 
-São **7 projetos** publicados. Os três primeiros são os destaques.
+<br>
 
-| Projeto | O que é | Tecnologias | Links |
-| :-- | :-- | :-- | :-- |
-| **Cardápio Escolar** | Aplicação web para consultar o cardápio do dia na escola, com avaliações por estrelas e comentários. | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) | [Repositório](https://github.com/LGA1155dev/cardapio) · [Aplicação online](https://cardapio-chi-weld.vercel.app) |
-| **Jasmine Scan** | Scanner de portas em Java com sockets: identifica portas abertas e sugere os serviços associados. Criado para estudar redes e TCP na prática. | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) | [Ver no GitHub](https://github.com/LGA1155dev?tab=repositories) |
-| **Cadastro de Ninjas** | Back-end com Java e Spring Boot para praticar a construção de APIs e a organização em camadas. | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white) | [Ver no GitHub](https://github.com/LGA1155dev?tab=repositories) |
-| **Comparativo de IAs** | Projeto escolar com gráficos comparativos, Power BI e Python. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black) | [Repositório](https://github.com/LGA1155dev/Trabalho-AI) |
-| **Mini-Loja** | Loja simples feita com HTML, CSS e JavaScript. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | [Repositório](https://github.com/LGA1155dev/Mini-Loja) |
-| **Login-Cx** | Interface de login com HTML, CSS e JavaScript. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | [Repositório](https://github.com/LGA1155dev/Login-Cx) |
-| **Diário de estudos em Java** | Anotações e exercícios de POO, Service e Repository. | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) | [Repositório](https://github.com/LGA1155dev/Java) |
+Consultas e modelagem de dados, a base do uso do banco nos projetos.
 
-> Ferramentas de rede, como o Jasmine Scan, são usadas apenas em ambientes próprios ou autorizados.
+_Ainda sem projeto publicado com esta tecnologia._
 
----
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
 
-## 🎯 Objetivos
+</details>
 
-- **Agora:** aprofundar Java e Spring Boot, aprender Angular e evoluir meus projetos com boas práticas.
-- **Em seguida:** conseguir uma oportunidade de estágio ou trainee em desenvolvimento de software.
-- **Segurança:** estudar pentest web e segurança de aplicações, sempre de forma ética e em ambientes autorizados.
-- **Futuro:** estudar C, Assembly, arquitetura de computadores e desenvolvimento de sistemas operacionais.
+<a id="t-python"></a>
 
----
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="22" height="22" alt="Python"> <b>Python</b> · <sub>web e dados</sub></summary>
 
-## 📫 Contato
+<br>
 
-Por enquanto, o GitHub é meu canal público. Fique à vontade para explorar o código e deixar feedback.
+Usei para os gráficos comparativos do projeto escolar.
 
-<div align="center">
+**Projetos:** <a href="#projetos">Comparativo de IAs</a>
 
-[![GitHub](https://img.shields.io/badge/github.com/LGA1155dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LGA1155dev)
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
 
-</div>
+</details>
+
+<a id="t-powerbi"></a>
+
+<details>
+<summary><img src="https://api.iconify.design/mdi/chart-box.svg?color=%23f2c811" width="22" height="22" alt="Power BI"> <b>Power BI</b> · <sub>web e dados</sub></summary>
+
+<br>
+
+Usei para montar os painéis do comparativo de IAs.
+
+**Projetos:** <a href="#projetos">Comparativo de IAs</a>
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
+
+</details>
+
+<a id="t-react"></a>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="22" height="22" alt="React"> <b>React</b> · <sub>usadas nos projetos</sub></summary>
+
+<br>
+
+Front-end do Cardápio Escolar.
+
+**Projetos:** <a href="#projetos">Cardápio Escolar</a>
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
+
+</details>
+
+<a id="t-postgres"></a>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="PostgreSQL"> <b>PostgreSQL</b> · <sub>usadas nos projetos</sub></summary>
+
+<br>
+
+Banco de dados do Cardápio Escolar, hospedado na Railway.
+
+**Projetos:** <a href="#projetos">Cardápio Escolar</a>
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
+
+</details>
+
+<a id="t-gradle"></a>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/gradle/gradle-original.svg" width="22" height="22" alt="Gradle"> <b>Gradle</b> · <sub>usadas nos projetos</sub></summary>
+
+<br>
+
+Ferramenta de build que uso nos projetos Java.
+
+_Ainda sem projeto publicado com esta tecnologia._
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
+
+</details>
+
+<a id="t-vercel"></a>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white"><img src="https://cdn.simpleicons.org/vercel/181717" width="22" height="22" alt="Vercel"></picture> <b>Vercel</b> · <sub>usadas nos projetos</sub></summary>
+
+<br>
+
+Hospedagem do front-end do Cardápio Escolar.
+
+**Projetos:** <a href="#projetos">Cardápio Escolar</a>
+
+<sub><a href="#tecnologias">↑ voltar às tecnologias</a></sub>
+
+</details>
+
+<a id="t-railway"></a>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/railway/white"><img src="https://cdn.simpleicons.o
